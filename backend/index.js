@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 4000;
 
 app.use(
   cors({
-    origin: "https://final-deploy-mern.vercel.app",
+    origin:
+      "https://final-deploy-mern-1gtx-mb97nbpik-vaibhavpatel-13s-projects.vercel.app",
   })
 );
 // Middleware
